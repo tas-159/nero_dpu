@@ -1,12 +1,12 @@
 .page-load-status {
   display: none; /* hidden by default */
   padding-top: 20px;
-  border-top: 1px solid #DDD;
+  border-top: 1px solid #4c4c4c;
   text-align: center;
-  color: #777;
+  color: #7c1313f7;
 }
 #intro {
-  background-color: bisque;
+  background-color: rgb(255, 255, 255);
   
   height: 100vh;
 }
